@@ -1,0 +1,10 @@
+D:\Windows_Forms_Practice\Suma\Suma\bin\Debug\Suma.exe.config
+D:\Windows_Forms_Practice\Suma\Suma\bin\Debug\Suma.exe
+D:\Windows_Forms_Practice\Suma\Suma\bin\Debug\Suma.pdb
+D:\Windows_Forms_Practice\Suma\Suma\obj\Debug\Calculadora.csproj.AssemblyReference.cache
+D:\Windows_Forms_Practice\Suma\Suma\obj\Debug\Suma.Suma.resources
+D:\Windows_Forms_Practice\Suma\Suma\obj\Debug\Suma.Properties.Resources.resources
+D:\Windows_Forms_Practice\Suma\Suma\obj\Debug\Calculadora.csproj.GenerateResource.cache
+D:\Windows_Forms_Practice\Suma\Suma\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+D:\Windows_Forms_Practice\Suma\Suma\obj\Debug\Suma.exe
+D:\Windows_Forms_Practice\Suma\Suma\obj\Debug\Suma.pdb
