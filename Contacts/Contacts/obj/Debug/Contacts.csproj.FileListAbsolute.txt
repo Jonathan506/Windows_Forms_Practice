@@ -1,0 +1,14 @@
+D:\Windows_Forms_Practice\Contacts\Contacts\bin\Debug\Contacts.exe.config
+D:\Windows_Forms_Practice\Contacts\Contacts\bin\Debug\Contacts.exe
+D:\Windows_Forms_Practice\Contacts\Contacts\bin\Debug\Contacts.pdb
+D:\Windows_Forms_Practice\Contacts\Contacts\obj\Debug\Contacts.csproj.AssemblyReference.cache
+D:\Windows_Forms_Practice\Contacts\Contacts\obj\Debug\Contacts.ContactDetails.resources
+D:\Windows_Forms_Practice\Contacts\Contacts\obj\Debug\Contacts.Main.resources
+D:\Windows_Forms_Practice\Contacts\Contacts\obj\Debug\Contacts.Properties.Resources.resources
+D:\Windows_Forms_Practice\Contacts\Contacts\obj\Debug\Contacts.csproj.GenerateResource.cache
+D:\Windows_Forms_Practice\Contacts\Contacts\obj\Debug\Contacts.csproj.CoreCompileInputs.cache
+D:\Windows_Forms_Practice\Contacts\Contacts\obj\Debug\Contacts.exe
+D:\Windows_Forms_Practice\Contacts\Contacts\obj\Debug\Contacts.pdb
+D:\Windows_Forms_Practice\Contacts\Contacts\bin\Debug\System.Data.SqlClient.dll
+D:\Windows_Forms_Practice\Contacts\Contacts\bin\Debug\System.Data.SqlClient.xml
+D:\Windows_Forms_Practice\Contacts\Contacts\obj\Debug\Contacts.csproj.CopyComplete
