@@ -13,8 +13,8 @@ namespace Contacts
     public partial class ContactDetails : Form
     {
         /*Variable Global*/
-
         private BusinessLogicLayer _businessLogicLayer;
+        private Contact _contact;
         public ContactDetails()
         {
             InitializeComponent();
@@ -33,14 +33,45 @@ namespace Contacts
 
         private void btnSave_Click(object sender, EventArgs e)
         {
+            SaveContontact();
+            this.Close();
+            ((Main)this.Owner).PopulateContacts();
+        }
+
+        private void SaveContontact() 
+        {
             Contact contact = new Contact();
 
             contact.FirstName = txtFirstName.Text;
-            contact.LastaName = txtLastName.Text;
+            contact.LastName = txtLastName.Text;
             contact.Phone = txtPhone.Text;
             contact.Address = txtAddress.Text;
 
-            _businessLogicLayer.SaveContact(contact); 
+            contact.Id = _contact != null ? _contact.Id : 0;
+
+            _businessLogicLayer.SaveContact(contact);
+        }
+
+        public void LoadContact(Contact contact)
+        {
+            _contact = contact; 
+            if (contact != null)
+            {
+                ClearForm();
+                txtFirstName.Text = contact.FirstName;
+                txtLastName.Text = contact.LastName;
+                txtPhone.Text = contact.Phone;
+                txtAddress.Text = contact.Address;
+
+            }
+        }
+
+        private void ClearForm() 
+        {
+            txtFirstName.Text = string.Empty;
+            txtLastName.Text = string.Empty;
+            txtPhone.Text = string.Empty;
+            txtAddress.Text = string.Empty;
         }
     }
 }

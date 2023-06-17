@@ -21,15 +21,20 @@ namespace Contacts
 
         public Contact SaveContact(Contact contact) 
         {
-            if (contact.id == 0)
+            if (contact.Id == 0)
             {
                 _dataAccessLayer.InsertContact(contact);
             }
-            //else 
-            //{ 
-            //    //_dataAccessLayer.UpdateContact
-            //}
+            else
+            {
+                _dataAccessLayer.UpdateContact(contact);
+            }
             return contact;
+        }
+
+        public List<Contact> GetContacts() 
+        {
+           return _dataAccessLayer.GetContacts();
         }
     }
 }

@@ -1,0 +1,7 @@
+C:\Users\Jonathan\Desktop\Ejercicios C#\Windows_Forms\Matriz_Numeros\Matriz_Numeros\obj\Debug\netcoreapp3.1\Matriz_Numeros.csproj.AssemblyReference.cache
+C:\Users\Jonathan\Desktop\Ejercicios C#\Windows_Forms\Matriz_Numeros\Matriz_Numeros\obj\Debug\netcoreapp3.1\Matriz_Numeros.Form1.resources
+C:\Users\Jonathan\Desktop\Ejercicios C#\Windows_Forms\Matriz_Numeros\Matriz_Numeros\obj\Debug\netcoreapp3.1\Matriz_Numeros.csproj.GenerateResource.cache
+C:\Users\Jonathan\Desktop\Ejercicios C#\Windows_Forms\Matriz_Numeros\Matriz_Numeros\obj\Debug\netcoreapp3.1\Matriz_Numeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonathan\Desktop\Ejercicios C#\Windows_Forms\Matriz_Numeros\Matriz_Numeros\obj\Debug\netcoreapp3.1\Matriz_Numeros.AssemblyInfoInputs.cache
+C:\Users\Jonathan\Desktop\Ejercicios C#\Windows_Forms\Matriz_Numeros\Matriz_Numeros\obj\Debug\netcoreapp3.1\Matriz_Numeros.AssemblyInfo.cs
+C:\Users\Jonathan\Desktop\Ejercicios C#\Windows_Forms\Matriz_Numeros\Matriz_Numeros\obj\Debug\netcoreapp3.1\Matriz_Numeros.csproj.CoreCompileInputs.cache

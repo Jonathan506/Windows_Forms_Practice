@@ -1,0 +1,10 @@
+C:\Users\Jonathan\Desktop\Ejercicios C#\Windows_Forms\ConexionBD\ConexionBD\bin\Debug\ConexionBD.exe.config
+C:\Users\Jonathan\Desktop\Ejercicios C#\Windows_Forms\ConexionBD\ConexionBD\bin\Debug\ConexionBD.exe
+C:\Users\Jonathan\Desktop\Ejercicios C#\Windows_Forms\ConexionBD\ConexionBD\bin\Debug\ConexionBD.pdb
+C:\Users\Jonathan\Desktop\Ejercicios C#\Windows_Forms\ConexionBD\ConexionBD\obj\Debug\ConexionBD.csproj.AssemblyReference.cache
+C:\Users\Jonathan\Desktop\Ejercicios C#\Windows_Forms\ConexionBD\ConexionBD\obj\Debug\ConexionBD.Form1.resources
+C:\Users\Jonathan\Desktop\Ejercicios C#\Windows_Forms\ConexionBD\ConexionBD\obj\Debug\ConexionBD.Properties.Resources.resources
+C:\Users\Jonathan\Desktop\Ejercicios C#\Windows_Forms\ConexionBD\ConexionBD\obj\Debug\ConexionBD.csproj.GenerateResource.cache
+C:\Users\Jonathan\Desktop\Ejercicios C#\Windows_Forms\ConexionBD\ConexionBD\obj\Debug\ConexionBD.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan\Desktop\Ejercicios C#\Windows_Forms\ConexionBD\ConexionBD\obj\Debug\ConexionBD.exe
+C:\Users\Jonathan\Desktop\Ejercicios C#\Windows_Forms\ConexionBD\ConexionBD\obj\Debug\ConexionBD.pdb

@@ -155,6 +155,7 @@ namespace Contacts
             this.Controls.Add(this.LastName);
             this.Controls.Add(this.FirstName);
             this.Name = "ContactDetails";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "ContactDeatails";
             this.ResumeLayout(false);
             this.PerformLayout();
