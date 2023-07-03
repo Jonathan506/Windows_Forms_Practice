@@ -1,0 +1,15 @@
+D:\Windows_Forms_Practice\C-R-U-D\CapaNegocio\bin\Debug\netcoreapp3.1\CapaNegocio.deps.json
+D:\Windows_Forms_Practice\C-R-U-D\CapaNegocio\bin\Debug\netcoreapp3.1\CapaNegocio.dll
+D:\Windows_Forms_Practice\C-R-U-D\CapaNegocio\bin\Debug\netcoreapp3.1\CapaNegocio.pdb
+D:\Windows_Forms_Practice\C-R-U-D\CapaNegocio\bin\Debug\netcoreapp3.1\capaDatos.dll
+D:\Windows_Forms_Practice\C-R-U-D\CapaNegocio\bin\Debug\netcoreapp3.1\capaEntidad.dll
+D:\Windows_Forms_Practice\C-R-U-D\CapaNegocio\bin\Debug\netcoreapp3.1\capaDatos.pdb
+D:\Windows_Forms_Practice\C-R-U-D\CapaNegocio\bin\Debug\netcoreapp3.1\capaEntidad.pdb
+D:\Windows_Forms_Practice\C-R-U-D\CapaNegocio\obj\Debug\netcoreapp3.1\CapaNegocio.csproj.AssemblyReference.cache
+D:\Windows_Forms_Practice\C-R-U-D\CapaNegocio\obj\Debug\netcoreapp3.1\CapaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+D:\Windows_Forms_Practice\C-R-U-D\CapaNegocio\obj\Debug\netcoreapp3.1\CapaNegocio.AssemblyInfoInputs.cache
+D:\Windows_Forms_Practice\C-R-U-D\CapaNegocio\obj\Debug\netcoreapp3.1\CapaNegocio.AssemblyInfo.cs
+D:\Windows_Forms_Practice\C-R-U-D\CapaNegocio\obj\Debug\netcoreapp3.1\CapaNegocio.csproj.CoreCompileInputs.cache
+D:\Windows_Forms_Practice\C-R-U-D\CapaNegocio\obj\Debug\netcoreapp3.1\CapaNegocio.csproj.CopyComplete
+D:\Windows_Forms_Practice\C-R-U-D\CapaNegocio\obj\Debug\netcoreapp3.1\CapaNegocio.dll
+D:\Windows_Forms_Practice\C-R-U-D\CapaNegocio\obj\Debug\netcoreapp3.1\CapaNegocio.pdb

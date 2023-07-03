@@ -1,0 +1,10 @@
+D:\Windows_Forms_Practice\C-R-U-D\capaEntidad\bin\Debug\netcoreapp3.1\capaEntidad.deps.json
+D:\Windows_Forms_Practice\C-R-U-D\capaEntidad\bin\Debug\netcoreapp3.1\capaEntidad.dll
+D:\Windows_Forms_Practice\C-R-U-D\capaEntidad\bin\Debug\netcoreapp3.1\capaEntidad.pdb
+D:\Windows_Forms_Practice\C-R-U-D\capaEntidad\obj\Debug\netcoreapp3.1\capaEntidad.GeneratedMSBuildEditorConfig.editorconfig
+D:\Windows_Forms_Practice\C-R-U-D\capaEntidad\obj\Debug\netcoreapp3.1\capaEntidad.AssemblyInfoInputs.cache
+D:\Windows_Forms_Practice\C-R-U-D\capaEntidad\obj\Debug\netcoreapp3.1\capaEntidad.AssemblyInfo.cs
+D:\Windows_Forms_Practice\C-R-U-D\capaEntidad\obj\Debug\netcoreapp3.1\capaEntidad.csproj.CoreCompileInputs.cache
+D:\Windows_Forms_Practice\C-R-U-D\capaEntidad\obj\Debug\netcoreapp3.1\capaEntidad.dll
+D:\Windows_Forms_Practice\C-R-U-D\capaEntidad\obj\Debug\netcoreapp3.1\capaEntidad.pdb
+D:\Windows_Forms_Practice\C-R-U-D\capaEntidad\obj\Debug\netcoreapp3.1\capaEntidad.csproj.AssemblyReference.cache

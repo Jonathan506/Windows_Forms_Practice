@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using System.Data.SqlClient; //BIblioteca que nos ayuda para establecer32 la conexión
+using System.Data.SqlClient; //BIblioteca que nos ayuda para establecer la conexión
 using System.Data;
 using System.Windows.Forms;
 

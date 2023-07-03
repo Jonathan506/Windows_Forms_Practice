@@ -1,0 +1,13 @@
+D:\Windows_Forms_Practice\C-R-U-D\capaDatos\bin\Debug\netcoreapp3.1\capaDatos.deps.json
+D:\Windows_Forms_Practice\C-R-U-D\capaDatos\bin\Debug\netcoreapp3.1\capaDatos.dll
+D:\Windows_Forms_Practice\C-R-U-D\capaDatos\bin\Debug\netcoreapp3.1\capaDatos.pdb
+D:\Windows_Forms_Practice\C-R-U-D\capaDatos\bin\Debug\netcoreapp3.1\capaEntidad.dll
+D:\Windows_Forms_Practice\C-R-U-D\capaDatos\bin\Debug\netcoreapp3.1\capaEntidad.pdb
+D:\Windows_Forms_Practice\C-R-U-D\capaDatos\obj\Debug\netcoreapp3.1\capaDatos.csproj.AssemblyReference.cache
+D:\Windows_Forms_Practice\C-R-U-D\capaDatos\obj\Debug\netcoreapp3.1\capaDatos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Windows_Forms_Practice\C-R-U-D\capaDatos\obj\Debug\netcoreapp3.1\capaDatos.AssemblyInfoInputs.cache
+D:\Windows_Forms_Practice\C-R-U-D\capaDatos\obj\Debug\netcoreapp3.1\capaDatos.AssemblyInfo.cs
+D:\Windows_Forms_Practice\C-R-U-D\capaDatos\obj\Debug\netcoreapp3.1\capaDatos.csproj.CoreCompileInputs.cache
+D:\Windows_Forms_Practice\C-R-U-D\capaDatos\obj\Debug\netcoreapp3.1\capaDatos.csproj.CopyComplete
+D:\Windows_Forms_Practice\C-R-U-D\capaDatos\obj\Debug\netcoreapp3.1\capaDatos.dll
+D:\Windows_Forms_Practice\C-R-U-D\capaDatos\obj\Debug\netcoreapp3.1\capaDatos.pdb
